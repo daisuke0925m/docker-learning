@@ -18,4 +18,4 @@ services:
   busybox:
     image: busybox
     container_name: docker_compose_busybox
-    command: ["sleep", "1500"]
+    # command: ["sleep", "1500"]
